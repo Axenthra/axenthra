@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        {
+            "command": "echo 'Hello from Axenthra!' >> hello.txt"
+        }
+    ]
+}

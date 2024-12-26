@@ -1,0 +1,5 @@
+{
+    "hosts": [
+        {"host": "111.222.333.444", "username": "axenthra", "password": "axenthra", "port": 22}
+    ]
+}
